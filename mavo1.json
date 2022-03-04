@@ -2,7 +2,10 @@
 	"currentStore": "Blah",
 	"frequentlyBought": [
 		{
-			"store": []
+			"store": [
+				"Whole Foods"
+			],
+			"name": "Garlic"
 		}
 	],
 	"item": [
@@ -15,6 +18,28 @@
 		{
 			"store": [],
 			"bought": false
+		},
+		{
+			"name": "Garlic",
+			"store": [
+				"Whole Foods"
+			],
+			"bought": false
+		},
+		{
+			"name": "Garlic",
+			"store": [
+				"Whole Foods"
+			],
+			"bought": false
+		},
+		{
+			"bought": false,
+			"store": []
+		},
+		{
+			"bought": false,
+			"store": []
 		}
 	]
 }
